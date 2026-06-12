@@ -1,0 +1,15 @@
+{
+  "name": "Cartão Gustavo Messias",
+  "short_name": "DevGustavo",
+  "start_url": "../index.html",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#161b22",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
